@@ -1,7 +1,3 @@
-## This code is modified from "Learning the signatures of the human grasp using a scalable tactile glove" by Jerry
-The basic idea is to add attention mechanism to the original method, experiments show that this operation can increase the accuracy rate to more than 90%
-Most  modification can be found in ClassificationModel.py
-
 ## Introduction
 This is a Pytorch based code for object classification and object estimation methods presented in the paper "Learning the signatures of the human grasp using a scalable tactile glove".
 
