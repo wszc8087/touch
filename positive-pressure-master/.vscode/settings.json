@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+    
+    ],
+    "python.dataScience.jupyterCommandLineArguments": [
+    
+    ],
+    "python.terminal.launchArgs": [
+    
+    ]
+}
